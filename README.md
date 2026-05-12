@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] 실전 ETF 추천 파이프라인 구축: 스마트 라우터부터 리스크 분석까지](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-%EC%B6%94%EC%B2%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%B6%80%ED%84%B0-%EB%A6%AC%EC%8A%A4%ED%81%AC-%EB%B6%84%EC%84%9D%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
+- [[AI/LLM] RAG 성능 고도화: 하이브리드 검색, 정량 평가(MRR), 그리고 LLM 리랭킹](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%84%B1%EB%8A%A5-%EA%B3%A0%EB%8F%84%ED%99%94-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B2%80%EC%83%89-%EC%A0%95%EB%9F%89-%ED%8F%89%EA%B0%80MRR-%EA%B7%B8%EB%A6%AC%EA%B3%A0-LLM-%EB%A6%AC%EB%9E%AD%ED%82%B9) — Thu, 30 Ap
 - [[AI/LLM] 실전 ETF RAG 구축: Kiwi BM25와 메타데이터 필터로 만드는 스마트 검색](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-RAG-%EA%B5%AC%EC%B6%95-Kiwi-BM25%EC%99%80-%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%84%ED%84%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B2%80%EC%83%89) — Thu, 30 Ap
 - [[AI/LLM] 다중 ETF 분석의 정석: Pandas 심화 지표부터 LLM 인사이트까지](https://cloudjini.tistory.com/entry/AILLM-%EB%8B%A4%EC%A4%91-ETF-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D-Pandas-%EC%8B%AC%ED%99%94-%EC%A7%80%ED%91%9C%EB%B6%80%ED%84%B0-LLM-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
 - [[AI/LLM] ETF 데이터 전처리 마스터: 결측치 처리부터 분석 파이프라인 구축까지](https://cloudjini.tistory.com/entry/AILLM-ETF-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC-%EB%A7%88%EC%8A%A4%ED%84%B0-%EA%B2%B0%EC%B8%A1%EC%B9%98-%EC%B2%98%EB%A6%AC%EB%B6%80%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
-- [[AI/LLM] 파이썬 ETF 데이터 가공: FinanceDataReader부터 유효성 검사까지](https://cloudjini.tistory.com/entry/AILLM-%ED%8C%8C%EC%9D%B4%EC%8D%AC-ETF-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5-FinanceDataReader%EB%B6%80%ED%84%B0-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
-- [[도서리뷰] 클로드 코워크 with 스킬&middot;플러그인, AI가 내 폴더에서 직접 일한다는 건 무슨 의미일까?](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EC%9B%8C%ED%81%AC-with-%EC%8A%A4%ED%82%AC%C2%B7%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-AI%EA%B0%80-%EB%82%B4-%ED%8F%B4%EB%8D%94%EC%97%90%EC%84%9C-%EC%A7%81%EC%A0%91-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B1%B4-%EB%AC%B4%EC%8A%A8-%EC%9D%98%EB%AF%B8%EC%9D%BC%EA%B9%8C) — Tue, 28 Ap
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] 실전 ETF 추천 파이프라인 구축: 스마트 라우터부터 리스크 분석까지](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-%EC%B6%94%EC%B2%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%B6%80%ED%84%B0-%EB%A6%AC%EC%8A%A4%ED%81%AC-%EB%B6%84%EC%84%9D%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
+- [[AI/LLM] RAG 성능 고도화: 하이브리드 검색, 정량 평가(MRR), 그리고 LLM 리랭킹](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%84%B1%EB%8A%A5-%EA%B3%A0%EB%8F%84%ED%99%94-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B2%80%EC%83%89-%EC%A0%95%EB%9F%89-%ED%8F%89%EA%B0%80MRR-%EA%B7%B8%EB%A6%AC%EA%B3%A0-LLM-%EB%A6%AC%EB%9E%AD%ED%82%B9) — Thu, 30 Ap
 - [[AI/LLM] 실전 ETF RAG 구축: Kiwi BM25와 메타데이터 필터로 만드는 스마트 검색](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-RAG-%EA%B5%AC%EC%B6%95-Kiwi-BM25%EC%99%80-%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%84%ED%84%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B2%80%EC%83%89) — Thu, 30 Ap
 - [[AI/LLM] 다중 ETF 분석의 정석: Pandas 심화 지표부터 LLM 인사이트까지](https://cloudjini.tistory.com/entry/AILLM-%EB%8B%A4%EC%A4%91-ETF-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D-Pandas-%EC%8B%AC%ED%99%94-%EC%A7%80%ED%91%9C%EB%B6%80%ED%84%B0-LLM-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
 - [[AI/LLM] ETF 데이터 전처리 마스터: 결측치 처리부터 분석 파이프라인 구축까지](https://cloudjini.tistory.com/entry/AILLM-ETF-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC-%EB%A7%88%EC%8A%A4%ED%84%B0-%EA%B2%B0%EC%B8%A1%EC%B9%98-%EC%B2%98%EB%A6%AC%EB%B6%80%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
-- [[AI/LLM] 파이썬 ETF 데이터 가공: FinanceDataReader부터 유효성 검사까지](https://cloudjini.tistory.com/entry/AILLM-%ED%8C%8C%EC%9D%B4%EC%8D%AC-ETF-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5-FinanceDataReader%EB%B6%80%ED%84%B0-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
-- [[도서리뷰] 클로드 코워크 with 스킬&middot;플러그인, AI가 내 폴더에서 직접 일한다는 건 무슨 의미일까?](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EC%9B%8C%ED%81%AC-with-%EC%8A%A4%ED%82%AC%C2%B7%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-AI%EA%B0%80-%EB%82%B4-%ED%8F%B4%EB%8D%94%EC%97%90%EC%84%9C-%EC%A7%81%EC%A0%91-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B1%B4-%EB%AC%B4%EC%8A%A8-%EC%9D%98%EB%AF%B8%EC%9D%BC%EA%B9%8C) — Tue, 28 Ap
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
