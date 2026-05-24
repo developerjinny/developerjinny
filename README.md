@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] 외부 도구 통합 - Tavily &middot; Wikipedia &middot; DuckDuckGo &middot; PythonREPL](https://cloudjini.tistory.com/entry/AILLM-%EC%99%B8%EB%B6%80-%EB%8F%84%EA%B5%AC-%ED%86%B5%ED%95%A9-Tavily-%C2%B7-Wikipedia-%C2%B7-DuckDuckGo-%C2%B7-PythonREPL) — Sat, 23 Ma
 - [맥에서 Zoom 녹화 영상 다운로드하는 방법 (2026 최신)](https://cloudjini.tistory.com/entry/%EB%A7%A5%EC%97%90%EC%84%9C-Zoom-%EB%85%B9%ED%99%94-%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2026-%EC%B5%9C%EC%8B%A0) — Thu, 21 Ma
 - [[AI/LLM] LLM Tool Calling 기초 - @tool &middot; StructuredTool &middot; tool_loop &middot; with_structured_output](https://cloudjini.tistory.com/entry/AILLM-LLM-Tool-Calling-%EA%B8%B0%EC%B4%88-tool-%C2%B7-StructuredTool-%C2%B7-toolloop-%C2%B7-withstructuredoutput) — Fri, 15 Ma
 - [[AI/LLM] 실전 ETF 추천 파이프라인 구축: 스마트 라우터부터 리스크 분석까지](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-%EC%B6%94%EC%B2%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%B6%80%ED%84%B0-%EB%A6%AC%EC%8A%A4%ED%81%AC-%EB%B6%84%EC%84%9D%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
 - [[AI/LLM] RAG 성능 고도화: 하이브리드 검색, 정량 평가(MRR), 그리고 LLM 리랭킹](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%84%B1%EB%8A%A5-%EA%B3%A0%EB%8F%84%ED%99%94-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B2%80%EC%83%89-%EC%A0%95%EB%9F%89-%ED%8F%89%EA%B0%80MRR-%EA%B7%B8%EB%A6%AC%EA%B3%A0-LLM-%EB%A6%AC%EB%9E%AD%ED%82%B9) — Thu, 30 Ap
-- [[AI/LLM] 실전 ETF RAG 구축: Kiwi BM25와 메타데이터 필터로 만드는 스마트 검색](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-RAG-%EA%B5%AC%EC%B6%95-Kiwi-BM25%EC%99%80-%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%84%ED%84%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B2%80%EC%83%89) — Thu, 30 Ap
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] 외부 도구 통합 - Tavily &middot; Wikipedia &middot; DuckDuckGo &middot; PythonREPL](https://cloudjini.tistory.com/entry/AILLM-%EC%99%B8%EB%B6%80-%EB%8F%84%EA%B5%AC-%ED%86%B5%ED%95%A9-Tavily-%C2%B7-Wikipedia-%C2%B7-DuckDuckGo-%C2%B7-PythonREPL) — Sat, 23 Ma
 - [맥에서 Zoom 녹화 영상 다운로드하는 방법 (2026 최신)](https://cloudjini.tistory.com/entry/%EB%A7%A5%EC%97%90%EC%84%9C-Zoom-%EB%85%B9%ED%99%94-%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2026-%EC%B5%9C%EC%8B%A0) — Thu, 21 Ma
 - [[AI/LLM] LLM Tool Calling 기초 - @tool &middot; StructuredTool &middot; tool_loop &middot; with_structured_output](https://cloudjini.tistory.com/entry/AILLM-LLM-Tool-Calling-%EA%B8%B0%EC%B4%88-tool-%C2%B7-StructuredTool-%C2%B7-toolloop-%C2%B7-withstructuredoutput) — Fri, 15 Ma
 - [[AI/LLM] 실전 ETF 추천 파이프라인 구축: 스마트 라우터부터 리스크 분석까지](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-%EC%B6%94%EC%B2%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%B6%80%ED%84%B0-%EB%A6%AC%EC%8A%A4%ED%81%AC-%EB%B6%84%EC%84%9D%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
 - [[AI/LLM] RAG 성능 고도화: 하이브리드 검색, 정량 평가(MRR), 그리고 LLM 리랭킹](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%84%B1%EB%8A%A5-%EA%B3%A0%EB%8F%84%ED%99%94-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B2%80%EC%83%89-%EC%A0%95%EB%9F%89-%ED%8F%89%EA%B0%80MRR-%EA%B7%B8%EB%A6%AC%EA%B3%A0-LLM-%EB%A6%AC%EB%9E%AD%ED%82%B9) — Thu, 30 Ap
-- [[AI/LLM] 실전 ETF RAG 구축: Kiwi BM25와 메타데이터 필터로 만드는 스마트 검색](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-RAG-%EA%B5%AC%EC%B6%95-Kiwi-BM25%EC%99%80-%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%84%ED%84%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B2%80%EC%83%89) — Thu, 30 Ap
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
