@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [개발자가 직접 읽어본 《현장에서 픽하는 IT 서비스 개발을 위한 실무 지식》 솔직 후기](https://cloudjini.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%9D%BD%EC%96%B4%EB%B3%B8-%E3%80%8A%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%ED%94%BD%ED%95%98%EB%8A%94-IT-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D%E3%80%8B-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0) — Tue, 26 Ma
 - [[AI/LLM] LLM API Tool 개발 기초 - HTTP &middot; requests &middot; REST API &middot; BaseTool 이해하기](https://cloudjini.tistory.com/entry/AILLM-LLM-API-Tool-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-HTTP-%C2%B7-requests-%C2%B7-REST-API-%C2%B7-BaseTool-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) — Mon, 25 Ma
 - [[AI/LLM] 외부 도구 통합 - Tavily &middot; Wikipedia &middot; DuckDuckGo &middot; PythonREPL](https://cloudjini.tistory.com/entry/AILLM-%EC%99%B8%EB%B6%80-%EB%8F%84%EA%B5%AC-%ED%86%B5%ED%95%A9-Tavily-%C2%B7-Wikipedia-%C2%B7-DuckDuckGo-%C2%B7-PythonREPL) — Sat, 23 Ma
 - [맥에서 Zoom 녹화 영상 다운로드하는 방법 (2026 최신)](https://cloudjini.tistory.com/entry/%EB%A7%A5%EC%97%90%EC%84%9C-Zoom-%EB%85%B9%ED%99%94-%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2026-%EC%B5%9C%EC%8B%A0) — Thu, 21 Ma
 - [[AI/LLM] LLM Tool Calling 기초 - @tool &middot; StructuredTool &middot; tool_loop &middot; with_structured_output](https://cloudjini.tistory.com/entry/AILLM-LLM-Tool-Calling-%EA%B8%B0%EC%B4%88-tool-%C2%B7-StructuredTool-%C2%B7-toolloop-%C2%B7-withstructuredoutput) — Fri, 15 Ma
-- [[AI/LLM] 실전 ETF 추천 파이프라인 구축: 스마트 라우터부터 리스크 분석까지](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-%EC%B6%94%EC%B2%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%B6%80%ED%84%B0-%EB%A6%AC%EC%8A%A4%ED%81%AC-%EB%B6%84%EC%84%9D%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [개발자가 직접 읽어본 《현장에서 픽하는 IT 서비스 개발을 위한 실무 지식》 솔직 후기](https://cloudjini.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%9D%BD%EC%96%B4%EB%B3%B8-%E3%80%8A%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%ED%94%BD%ED%95%98%EB%8A%94-IT-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D%E3%80%8B-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0) — Tue, 26 Ma
 - [[AI/LLM] LLM API Tool 개발 기초 - HTTP &middot; requests &middot; REST API &middot; BaseTool 이해하기](https://cloudjini.tistory.com/entry/AILLM-LLM-API-Tool-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-HTTP-%C2%B7-requests-%C2%B7-REST-API-%C2%B7-BaseTool-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) — Mon, 25 Ma
 - [[AI/LLM] 외부 도구 통합 - Tavily &middot; Wikipedia &middot; DuckDuckGo &middot; PythonREPL](https://cloudjini.tistory.com/entry/AILLM-%EC%99%B8%EB%B6%80-%EB%8F%84%EA%B5%AC-%ED%86%B5%ED%95%A9-Tavily-%C2%B7-Wikipedia-%C2%B7-DuckDuckGo-%C2%B7-PythonREPL) — Sat, 23 Ma
 - [맥에서 Zoom 녹화 영상 다운로드하는 방법 (2026 최신)](https://cloudjini.tistory.com/entry/%EB%A7%A5%EC%97%90%EC%84%9C-Zoom-%EB%85%B9%ED%99%94-%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2026-%EC%B5%9C%EC%8B%A0) — Thu, 21 Ma
 - [[AI/LLM] LLM Tool Calling 기초 - @tool &middot; StructuredTool &middot; tool_loop &middot; with_structured_output](https://cloudjini.tistory.com/entry/AILLM-LLM-Tool-Calling-%EA%B8%B0%EC%B4%88-tool-%C2%B7-StructuredTool-%C2%B7-toolloop-%C2%B7-withstructuredoutput) — Fri, 15 Ma
-- [[AI/LLM] 실전 ETF 추천 파이프라인 구축: 스마트 라우터부터 리스크 분석까지](https://cloudjini.tistory.com/entry/AILLM-%EC%8B%A4%EC%A0%84-ETF-%EC%B6%94%EC%B2%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%B6%80%ED%84%B0-%EB%A6%AC%EC%8A%A4%ED%81%AC-%EB%B6%84%EC%84%9D%EA%B9%8C%EC%A7%80) — Thu, 30 Ap
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
