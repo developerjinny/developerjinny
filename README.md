@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [개발자가 직접 써본 로지텍 Spotlight 2 후기｜발표가 달라지는 프리미엄 프레젠터](https://cloudjini.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-%EB%A1%9C%EC%A7%80%ED%85%8D-Spotlight-2-%ED%9B%84%EA%B8%B0%EF%BD%9C%EB%B0%9C%ED%91%9C%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%ED%94%84%EB%A0%88%EC%A0%A0%ED%84%B0) — Tue, 30 Ju
 - [[로지텍 MX Masters 2기] 첫 발대식 후기! 개발자가 직접 다녀온 현장](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-MX-Masters-2%EA%B8%B0-%EC%B2%AB-%EB%B0%9C%EB%8C%80%EC%8B%9D-%ED%9B%84%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EB%8B%A4%EB%85%80%EC%98%A8-%ED%98%84%EC%9E%A5) — Mon, 29 Ju
 - [[도서리뷰] 하네스 엔지니어링 with 클로드 코드, AI 에이전트 설계의 정석 (개발자 추천)](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-with-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B6%94%EC%B2%9C) — Sun, 28 Ju
 - [생활코딩 WEB2 JavaScript 강의 후기｜핵심 개념 한 번에 정리하기](https://cloudjini.tistory.com/entry/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-WEB2-JavaScript-%EA%B0%95%EC%9D%98-%ED%9B%84%EA%B8%B0%EF%BD%9C%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0) — Wed, 17 Ju
 - [[AI/LLM] AI 법률 도우미 에이전트 만들기 - FAISS RAG &middot; Tool Calling &middot; LegalSearchAgent](https://cloudjini.tistory.com/entry/AILLM-AI-%EB%B2%95%EB%A5%A0-%EB%8F%84%EC%9A%B0%EB%AF%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FAISS-RAG-%C2%B7-Tool-Calling-%C2%B7-LegalSearchAgent) — Thu, 28 Ma
-- [[AI/LLM] MCP(Model Context Protocol) 기초 - FastMCP 서버 &middot; stdio 클라이언트 &middot; LangChain 통합](https://cloudjini.tistory.com/entry/MCPModel-Context-Protocol-%EA%B8%B0%EC%B4%88-%E2%80%94-FastMCP-%EC%84%9C%EB%B2%84-%C2%B7-stdio-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%C2%B7-LangChain-%ED%86%B5%ED%95%A9) — Thu, 28 Ma
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [개발자가 직접 써본 로지텍 Spotlight 2 후기｜발표가 달라지는 프리미엄 프레젠터](https://cloudjini.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-%EB%A1%9C%EC%A7%80%ED%85%8D-Spotlight-2-%ED%9B%84%EA%B8%B0%EF%BD%9C%EB%B0%9C%ED%91%9C%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%ED%94%84%EB%A0%88%EC%A0%A0%ED%84%B0) — Tue, 30 Ju
 - [[로지텍 MX Masters 2기] 첫 발대식 후기! 개발자가 직접 다녀온 현장](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-MX-Masters-2%EA%B8%B0-%EC%B2%AB-%EB%B0%9C%EB%8C%80%EC%8B%9D-%ED%9B%84%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EB%8B%A4%EB%85%80%EC%98%A8-%ED%98%84%EC%9E%A5) — Mon, 29 Ju
 - [[도서리뷰] 하네스 엔지니어링 with 클로드 코드, AI 에이전트 설계의 정석 (개발자 추천)](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-with-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B6%94%EC%B2%9C) — Sun, 28 Ju
 - [생활코딩 WEB2 JavaScript 강의 후기｜핵심 개념 한 번에 정리하기](https://cloudjini.tistory.com/entry/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-WEB2-JavaScript-%EA%B0%95%EC%9D%98-%ED%9B%84%EA%B8%B0%EF%BD%9C%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0) — Wed, 17 Ju
 - [[AI/LLM] AI 법률 도우미 에이전트 만들기 - FAISS RAG &middot; Tool Calling &middot; LegalSearchAgent](https://cloudjini.tistory.com/entry/AILLM-AI-%EB%B2%95%EB%A5%A0-%EB%8F%84%EC%9A%B0%EB%AF%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FAISS-RAG-%C2%B7-Tool-Calling-%C2%B7-LegalSearchAgent) — Thu, 28 Ma
-- [[AI/LLM] MCP(Model Context Protocol) 기초 - FastMCP 서버 &middot; stdio 클라이언트 &middot; LangChain 통합](https://cloudjini.tistory.com/entry/MCPModel-Context-Protocol-%EA%B8%B0%EC%B4%88-%E2%80%94-FastMCP-%EC%84%9C%EB%B2%84-%C2%B7-stdio-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%C2%B7-LangChain-%ED%86%B5%ED%95%A9) — Thu, 28 Ma
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
