@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] LangGraph Reducer 완벽 정리 | add_messages, keep_max, merge_dicts, RemoveMessage까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-Reducer-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-addmessages-keepmax-mergedicts-RemoveMessage%EA%B9%8C%EC%A7%80) — Wed, 22 Ju
 - [[AI/LLM] LangGraph 기초 완벽 정리 | StateGraph, TypedDict, Node&middot;Edge, 조건부 분기까지 한 번에](https://cloudjini.tistory.com/entry/AILLM-LangGraph-%EA%B8%B0%EC%B4%88-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-StateGraph-TypedDict-Node%C2%B7Edge-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EB%B6%84%EA%B8%B0%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90) — Tue, 21 Ju
 - [로지텍 폴더블 마우스 Mobi Fold 실사용 후기 (장단점, 가격, 스펙 총정리)](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-%ED%8F%B4%EB%8D%94%EB%B8%94-%EB%A7%88%EC%9A%B0%EC%8A%A4-Mobi-Fold-%EC%8B%A4%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EA%B0%80%EA%B2%A9-%EC%8A%A4%ED%8E%99-%EC%B4%9D%EC%A0%95%EB%A6%AC) — Thu, 9 Jul
 - [개발자가 직접 써본 로지텍 Spotlight 2 후기｜발표가 달라지는 프리미엄 프레젠터](https://cloudjini.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-%EB%A1%9C%EC%A7%80%ED%85%8D-Spotlight-2-%ED%9B%84%EA%B8%B0%EF%BD%9C%EB%B0%9C%ED%91%9C%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%ED%94%84%EB%A0%88%EC%A0%A0%ED%84%B0) — Tue, 30 Ju
 - [[로지텍 MX Masters 2기] 첫 발대식 후기! 개발자가 직접 다녀온 현장](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-MX-Masters-2%EA%B8%B0-%EC%B2%AB-%EB%B0%9C%EB%8C%80%EC%8B%9D-%ED%9B%84%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EB%8B%A4%EB%85%80%EC%98%A8-%ED%98%84%EC%9E%A5) — Mon, 29 Ju
-- [[도서리뷰] 하네스 엔지니어링 with 클로드 코드, AI 에이전트 설계의 정석 (개발자 추천)](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-with-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B6%94%EC%B2%9C) — Sun, 28 Ju
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] LangGraph Reducer 완벽 정리 | add_messages, keep_max, merge_dicts, RemoveMessage까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-Reducer-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-addmessages-keepmax-mergedicts-RemoveMessage%EA%B9%8C%EC%A7%80) — Wed, 22 Ju
 - [[AI/LLM] LangGraph 기초 완벽 정리 | StateGraph, TypedDict, Node&middot;Edge, 조건부 분기까지 한 번에](https://cloudjini.tistory.com/entry/AILLM-LangGraph-%EA%B8%B0%EC%B4%88-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-StateGraph-TypedDict-Node%C2%B7Edge-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EB%B6%84%EA%B8%B0%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90) — Tue, 21 Ju
 - [로지텍 폴더블 마우스 Mobi Fold 실사용 후기 (장단점, 가격, 스펙 총정리)](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-%ED%8F%B4%EB%8D%94%EB%B8%94-%EB%A7%88%EC%9A%B0%EC%8A%A4-Mobi-Fold-%EC%8B%A4%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EA%B0%80%EA%B2%A9-%EC%8A%A4%ED%8E%99-%EC%B4%9D%EC%A0%95%EB%A6%AC) — Thu, 9 Jul
 - [개발자가 직접 써본 로지텍 Spotlight 2 후기｜발표가 달라지는 프리미엄 프레젠터](https://cloudjini.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-%EB%A1%9C%EC%A7%80%ED%85%8D-Spotlight-2-%ED%9B%84%EA%B8%B0%EF%BD%9C%EB%B0%9C%ED%91%9C%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%ED%94%84%EB%A0%88%EC%A0%A0%ED%84%B0) — Tue, 30 Ju
 - [[로지텍 MX Masters 2기] 첫 발대식 후기! 개발자가 직접 다녀온 현장](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-MX-Masters-2%EA%B8%B0-%EC%B2%AB-%EB%B0%9C%EB%8C%80%EC%8B%9D-%ED%9B%84%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%EB%8B%A4%EB%85%80%EC%98%A8-%ED%98%84%EC%9E%A5) — Mon, 29 Ju
-- [[도서리뷰] 하네스 엔지니어링 with 클로드 코드, AI 에이전트 설계의 정석 (개발자 추천)](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-with-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B6%94%EC%B2%9C) — Sun, 28 Ju
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
