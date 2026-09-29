@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [끌림의 설계 리뷰, 개발자가 UX 심리를 알아야 하는 3가지 이유](https://cloudjini.tistory.com/entry/%EB%81%8C%EB%A6%BC%EC%9D%98-%EC%84%A4%EA%B3%84-%EB%A6%AC%EB%B7%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-UX-%EC%8B%AC%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0) — Tue, 29 Se
 - [2027 대한민국 트렌드 서평｜AI 시대, 개발자의 역할은 어떻게 달라질까?](https://cloudjini.tistory.com/entry/2027-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%84%9C%ED%8F%89%EF%BD%9CAI-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A7%88%EA%B9%8C) — Fri, 11 Se
 - [AI가 알아서 굴려주는 월급쟁이 재테크 서평｜개발자가 직접 해본 AI 월급관리](https://cloudjini.tistory.com/entry/AI%EA%B0%80-%EC%95%8C%EC%95%84%EC%84%9C-%EA%B5%B4%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%94%EA%B8%89%EC%9F%81%EC%9D%B4-%EC%9E%AC%ED%85%8C%ED%81%AC-%EC%84%9C%ED%8F%89%EF%BD%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B8-AI-%EC%9B%94%EA%B8%89%EA%B4%80%EB%A6%AC) — Mon, 31 Au
 - [7인의 AI 드림팀 만들기 서평｜개발자가 읽어본 AI 업무 자동화 활용법](https://cloudjini.tistory.com/entry/7%EC%9D%B8%EC%9D%98-AI-%EB%93%9C%EB%A6%BC%ED%8C%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%84%9C%ED%8F%89%EF%BD%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9D%BD%EC%96%B4%EB%B3%B8-AI-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%ED%99%9C%EC%9A%A9%EB%B2%95) — Mon, 31 Au
 - [[AI/LLM] RAG 에이전트 구현하기 | Adaptive&middot;Self&middot;Corrective RAG 통합 프로젝트](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Adaptive%C2%B7Self%C2%B7Corrective-RAG-%ED%86%B5%ED%95%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) — Sat, 1 Aug
-- [[도서리뷰] &quot;인프라, 검색으로 때우던 개발자에게&quot; IT 인프라 입문서 추천 (그림으로 이해하는 IT 인프라 구조와 기술)](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B2%80%EC%83%89%EC%9C%BC%EB%A1%9C-%EB%95%8C%EC%9A%B0%EB%8D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%85%EB%AC%B8%EC%84%9C-%EC%B6%94%EC%B2%9C-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%99%80-%EA%B8%B0%EC%88%A0) — Fri, 31 Ju
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [끌림의 설계 리뷰, 개발자가 UX 심리를 알아야 하는 3가지 이유](https://cloudjini.tistory.com/entry/%EB%81%8C%EB%A6%BC%EC%9D%98-%EC%84%A4%EA%B3%84-%EB%A6%AC%EB%B7%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-UX-%EC%8B%AC%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0) — Tue, 29 Se
 - [2027 대한민국 트렌드 서평｜AI 시대, 개발자의 역할은 어떻게 달라질까?](https://cloudjini.tistory.com/entry/2027-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%84%9C%ED%8F%89%EF%BD%9CAI-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A7%88%EA%B9%8C) — Fri, 11 Se
 - [AI가 알아서 굴려주는 월급쟁이 재테크 서평｜개발자가 직접 해본 AI 월급관리](https://cloudjini.tistory.com/entry/AI%EA%B0%80-%EC%95%8C%EC%95%84%EC%84%9C-%EA%B5%B4%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%94%EA%B8%89%EC%9F%81%EC%9D%B4-%EC%9E%AC%ED%85%8C%ED%81%AC-%EC%84%9C%ED%8F%89%EF%BD%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B8-AI-%EC%9B%94%EA%B8%89%EA%B4%80%EB%A6%AC) — Mon, 31 Au
 - [7인의 AI 드림팀 만들기 서평｜개발자가 읽어본 AI 업무 자동화 활용법](https://cloudjini.tistory.com/entry/7%EC%9D%B8%EC%9D%98-AI-%EB%93%9C%EB%A6%BC%ED%8C%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%84%9C%ED%8F%89%EF%BD%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9D%BD%EC%96%B4%EB%B3%B8-AI-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%ED%99%9C%EC%9A%A9%EB%B2%95) — Mon, 31 Au
 - [[AI/LLM] RAG 에이전트 구현하기 | Adaptive&middot;Self&middot;Corrective RAG 통합 프로젝트](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Adaptive%C2%B7Self%C2%B7Corrective-RAG-%ED%86%B5%ED%95%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) — Sat, 1 Aug
-- [[도서리뷰] &quot;인프라, 검색으로 때우던 개발자에게&quot; IT 인프라 입문서 추천 (그림으로 이해하는 IT 인프라 구조와 기술)](https://cloudjini.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B2%80%EC%83%89%EC%9C%BC%EB%A1%9C-%EB%95%8C%EC%9A%B0%EB%8D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%85%EB%AC%B8%EC%84%9C-%EC%B6%94%EC%B2%9C-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%99%80-%EA%B8%B0%EC%88%A0) — Fri, 31 Ju
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
